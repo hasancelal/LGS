@@ -1,0 +1,8 @@
+{
+  "name": "LGS Asistanı",
+  "description": "LGS hazırlık sürecindeki öğrenciler için yanlış yapılan soruları kaydetme, analiz etme ve tekrar etme asistanı.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
